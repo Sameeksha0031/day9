@@ -1,0 +1,4 @@
+attendance=$((RANDOM%3))
+total_hour=100
+days_for_month=20
+while
